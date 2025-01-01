@@ -1,4 +1,4 @@
-# go-commit-ai
+# git-commit-ai
 
 Proof of concept right now. This is a git extension that will look at your staged files and analyse the changes within. It will then attempt to write a good commit message for you. You will have a chance to edit it.
 
