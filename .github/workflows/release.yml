@@ -27,4 +27,3 @@ jobs:
           goarch: ${{ matrix.goarch }}
           goversion: "1.23.4"
           binary_name: "git-commit-ai"
-          extra_files: LICENSE.md README.md
