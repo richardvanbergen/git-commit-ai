@@ -6,6 +6,12 @@ Currently requires an Anthropic API key, I plan to add a few other adapters. Thi
 
 ## Instructions
 
+First you will need an API key from Anthropic and your sell will need to be able to access it:
+
+```
+export CLAUDE_API_KEY="[your key]"
+```
+
 Download the binary from GitHub or you can compile yourself using:
 
 ```
